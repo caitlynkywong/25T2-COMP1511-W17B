@@ -1,4 +1,5 @@
-// example_program.c
+// part4_scanf_loop.c
+// Originally example_program.c included in Week 3 'custom cake' lab exercise
 // 
 // Written by Sofia, De Bellis (z5418801) on June 2024
 // and Caitlyn Wong (z5360361)
