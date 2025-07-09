@@ -1,4 +1,4 @@
-// part1_galaxy.c
+// part2_galaxy.c
 //
 // This program was written by Sofia De Bellis (z5418801)
 // on March 2024
